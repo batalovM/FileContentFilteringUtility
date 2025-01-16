@@ -50,4 +50,4 @@
 java -jar target/FileContentFilteringUtility-1.0-SNAPSHOT.jar -o C:\Users\batal\IdeaProjects\FileContentFilteringUtility\output -p result_ -f input\test1.txt input\test2.txt
 ```
 ## Результат выполнения
-![](resources/1%20скрин.png)
+![](src/images/first.jpg)
